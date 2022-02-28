@@ -4,7 +4,7 @@ Author: [Sean Fry](mailto:seanfry9@gmail.com)
 
 ## Overview
 
-This project analyzes multiple movie databases to determine success rates for different characteristics of movies. For this analysis a movie is considered a success if it makes twice as much gross as what the production budget was. In this analysis the three main categories that will be looked at are movie release month, movie genre, and movie production budget. This data can be used by a movie studio to optimize the production of any movies they are making to maximize the chances of success.
+This project analyzes multiple movie databases to determine success rates for different characteristics of movies. For this analysis a movie is considered a success if it makes twice as much profit as what the production budget was. In this analysis the three main categories that will be looked at are movie release month, movie genre, and movie production budget. This data can be used by a movie studio to optimize the production of any movies they are making to maximize the chances of success.
 
 ## Business Problem
 
