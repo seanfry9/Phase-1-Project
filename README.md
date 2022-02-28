@@ -26,9 +26,11 @@ Most movies are released around the December holiday season, but the majority of
 
 Drama, comedy, and Action are the most popular genres, while animation, adventure and mystery have the highest percent of successful movies.
 
-![genre](./images/production_budget.png)
+![genre](./images/genre_gross_data.png)
 
 Movies with either a high or low production budget have a higher percentage of successful movies.
+
+![production_budget](./images/production_budget.png)
 
 ## Conclusions
 
